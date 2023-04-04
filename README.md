@@ -1,3 +1,5 @@
+# Mentor/Maintainer : [Amey Pandit](mailto:amey@gdscace.tech)
+
 # gdsc_college_app
 
 A new Flutter project.
